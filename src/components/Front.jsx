@@ -13,7 +13,6 @@ const Front = () => {
     })
     setInputN("")
   }
-  // setItems("");
   return (
     <>
       <div className="container">
